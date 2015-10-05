@@ -280,7 +280,7 @@
 <Text-field style="Heading 3" italic="false" layout="Heading 3"><Font italic="false">1.1.3 plot( )</Font></Text-field></Title><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L4334" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input>
-<Text-field style="Text" layout="Annotation Title" alignment="left"><Font encoding="UTF-8">Om vi \303\270nsker \303\245 vise funksjonen grafisk. Kan vi bruke funksjonen plot(). I funksjonen kan vi inkludere flere funksjoner ved hjelp av klammeparentes og komma { , }, vi kan begrense visningsvindu ved \303\245 oppgi grenser for x og y. Vi kan ogs\303\245 legge til beskrivende tekst under grafen ved \303\245 skrive caption=&quot;&quot;, og skrive teksten mellom anf\303\270rselstegnene.</Font></Text-field>
+<Text-field style="Text" layout="Annotation Title" alignment="left"><Font encoding="UTF-8">Om vi \303\270nsker \303\245 vise funksjonen grafisk. Kan vi bruke funksjonen plot(). I funksjonen kan vi inkludere flere funksjoner ved hjelp av klammeparentes og komma { , }, vi kan begrense visningsvindu ved \303\245 oppgi grenser for x og y. Vi kan ogs\303\245 legge til beskrivende tekst under grafen ved \303\245 skrive caption=&quot;&quot;, og skrive teksten mellom anf\303\270rselstegnene.B\303\246sj</Font></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L4864" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
