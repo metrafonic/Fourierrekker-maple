@@ -1666,7 +1666,7 @@
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5230" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input>
-<Text-field style="Text" opaque="true" layout="Normal"><Font opaque="true" encoding="UTF-8">En gang iblant f\303\245r vi oppgitt en funksjon som bare er definert mellom 0&lt;t&lt;(T/2). I slike tilfeller kan vi likevel bruke Fourieranalyse, men vi m\303\245 definere om funksjonen vi skal f\303\245 ut skal v\303\246re en like- eller en oddefunksjon. Dette er fordi vi m\303\245 vite hvordan funksjonen skal utbre seg mellom (-T/2)&lt;t&lt;0.</Font></Text-field>
+<Text-field style="Text" opaque="true" layout="Normal"><Font opaque="true" encoding="UTF-8">En gang iblant f\303\245r vi oppgitt en funksjon som bare er definert mellom 0&lt;t&lt;(T/2). I slike tilfeller kan vi likevel bruke Fourieranalyse, men vi m\303\245 definere om funksjonen vi skal f\303\245 ut skal v\303\246re en like- eller en oddefunksjon. Dette er fordi vi m\303\245 vite hvordan funksjonen skal utbrede seg mellom (-T/2)&lt;t&lt;0.</Font></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5222" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
