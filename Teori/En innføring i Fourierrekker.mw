@@ -2072,7 +2072,7 @@
 <Text-field style="Heading 2" layout="Heading 2">2.6 <Font opaque="true">Komplekse Fourierrekker</Font></Text-field></Title><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5290" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input>
-<Text-field style="Text" opaque="true" layout="Normal"><Font opaque="true" encoding="UTF-8">Man kan ogs\303\245 skrive Fourierekker i en annen form, denne formen inkluderer komplekse nummer, som nytter seg av formelen:</Font></Text-field>
+<Text-field style="Text" opaque="true" layout="Normal"><Font opaque="true" encoding="UTF-8">Man kan ogs\303\245 skrive Fourierekker i en annen form, denne formen inkluderer komplekse nummer, som nytter seg av formelen: poop</Font></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5541" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
