@@ -90,7 +90,7 @@
 <Task/><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5360" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input>
-<Text-field style="Title" opaque="true" layout="Title" alignment="left"><Font opaque="true" underline="true" size="24">E<Font encoding="UTF-8">n innf\303\270ring i Fourrierrekker</Font></Font></Text-field>
+<Text-field style="Title" opaque="true" layout="Title" alignment="left"><Font opaque="true" underline="true" size="24">E<Font encoding="UTF-8">n innf\303\270ring i Fourrierrekker Jaja b\303\246sj</Font></Font></Text-field>
 </Input>
 </Group></Presentation-Block><Presentation-Block>
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5513" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
@@ -140,6 +140,16 @@
 <Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5166" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
 <Input>
 <Text-field style="Text" layout="Annotation Title" alignment="left"><Font style="Annotation Title" opaque="true" size="12">Mottat Korporal.</Font></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5691" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Annotation Title" alignment="left"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L5692" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
+<Input>
+<Text-field style="Text" layout="Annotation Title" alignment="left"><Font style="Annotation Title" opaque="true" size="12">du og skal jeg si deg</Font></Text-field>
 </Input>
 </Group></Presentation-Block>
 </Section>
